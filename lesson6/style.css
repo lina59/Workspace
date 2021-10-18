@@ -1,0 +1,60 @@
+.game {
+    width: 250px;
+    height: 250px;
+    background-color: tomato;
+}
+.game1{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(208, 78, 55);
+}
+.game3{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(223, 140, 126) 
+}
+.container2{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.container3{
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.container4{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+.container5{
+    display:flex;
+    align-items: center;
+    justify-content:  flex-start;
+}
+.container6{
+    display:flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+.container1{
+    display:flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.game5{
+    width: 250px;
+    height: 250px;
+    background-color: green ;
+}
+.game6{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(56, 146, 71);
+}
+.game7{
+    width: 250px;
+    height: 250px;
+    background-color: rgb(128, 201, 113);
+}
